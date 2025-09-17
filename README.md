@@ -46,4 +46,13 @@ Software-Design-and-Modeling/
 ├── main.py         
 ├── README.md            
 ├── GH1034223 - Chehab Hany's Final Assessment.pdf    
-└── UML Diagrams/              
+└── UML Diagrams/
+
+F. Demo Video Link
+
+
+G. License
+
+Author: Chehab Hany 
+
+University: Gisma University of Applied Sciences
